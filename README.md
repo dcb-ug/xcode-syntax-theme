@@ -1,4 +1,4 @@
-# xcode-sytax-them
+# xcode-syntax-theme
 syntax theme for xcode using the dcb colors
 
 ## How to Install
